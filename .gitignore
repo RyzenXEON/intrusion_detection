@@ -1,2 +1,7 @@
 /CIC-IDS-2017/*
-/models/*
+/final_models/models/*
+/final_models/CIC-IDS-2017/*
+CIC-IDS-2017.ipynb
+KDDTest+.arff
+KDDTrain+.txt
+/Dump/*
